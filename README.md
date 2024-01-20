@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **M4yours**
 
-- 🌱 I’m currently learning **Spring,javaSript,React js, node js ,next-js**
+- 🌱 I’m currently learning **javaSript,React js, node js ,next-js**
 
 - 📫 How to reach me **mdsharuk1011@gmail.com**
 
